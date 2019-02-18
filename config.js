@@ -8,7 +8,7 @@ var refreshDelay = 30000;
 
 // pools stats by MainCoins
 var networkStat = {
- "trtl": [
+ "rhox": [
 	[rhox.cryptonote.club, "https://rhox.cryptonote.club/"],
 	[roto2.org, "http://rhox.roto2.org/"],
 	//["us.turtlepool.space", "http://us.turtlepool.space:8117"],

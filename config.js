@@ -10,7 +10,7 @@ var refreshDelay = 30000;
 var networkStat = {
  "rhox": [
 	[rhox.cryptonote.club, "https://rhox.cryptonote.club/"],
-	[roto2.org, "http://rhox.roto2.org/"],
+	//[roto2.org, "http://rhox.roto2.org/"],
 	//["us.turtlepool.space", "http://us.turtlepool.space:8117"],
 	//["hk.turtlepool.space", "http://hk.turtlepool.space:8117"],
 	//["turtlecoinpool.ddns.net", "http://turtlecoinpool.ddns.net:8127"],

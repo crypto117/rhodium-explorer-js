@@ -1,4 +1,4 @@
-# TurtleCoin-Blockchain-Explorer
+# RhodiumCoin-Blockchain-Explorer
 Block explorer for TurtleCoin CryptoNote based cryptocurrency.
 
 #### Installation

@@ -1,0 +1,19 @@
+{
+  "name": "rhodium",
+  "version": "0.1.0",
+  "description": "rhodiumcoin",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crypto117/rhodium-explorer-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crypto117/rhodium-explorer-js/issues"
+  },
+  "homepage": "https://github.com/crypto117/rhodium-explorer-js#readme"
+}

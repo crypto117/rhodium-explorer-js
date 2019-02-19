@@ -1,7 +1,7 @@
 var api = 'http://127.0.0.1:8004';
 var donationAddress = "RhodaLzk3r89PAUnB7NUTAEDfzY5ApiMRaL531j9SWqf3wMpGWiHckSMHHo5tNAoBB7cU9KTjxjRQG5ezFsf6CQY33fGtgWNEj";
 var blockTargetInterval = 30; // enter the block interval in seconds
-var coinUnits = 100;  // enter in the amount of atomic units in 1 coin, eg. 100 shells = 1 trtl
+var coinUnits = 100;  // enter in the amount of atomic units in 1 coin, eg. 100 shells = 1 rhox
 var totalSupply =  2100000000000000000; // enter the total supply in atomic units
 var symbol = 'rhox'; // enter the coin's ticker
 var refreshDelay = 30000;

@@ -1,4 +1,4 @@
-var api = 'http://127.0.0.1:8004';
+var api = 'https://rhox.cryptonote.club:8199/stats';
 var donationAddress = "RhodaLzk3r89PAUnB7NUTAEDfzY5ApiMRaL531j9SWqf3wMpGWiHckSMHHo5tNAoBB7cU9KTjxjRQG5ezFsf6CQY33fGtgWNEj";
 var blockTargetInterval = 120; // enter the block interval in seconds
 var coinUnits = 100;  // enter in the amount of atomic units in 1 coin, eg. 100 shells = 1 rhox
